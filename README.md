@@ -1,5 +1,7 @@
 # Hacklytics 2020
 Note that this submission was imported from an enterprise repository, and therefore doesn't have the same project structure.
+
+
 This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. 
 This study reviewed the literature and used the following 23 variables as explanatory variables:
 
